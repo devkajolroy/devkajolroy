@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **NextJs, TypeScript, GraphQL, React Native, SQL,**
 
 - 💬 Ask me about **React, Node**
+  - 💬 Ask me about **React, Node**
+  
 - 📫 Reach me **shrikajol@gmail.com**
 
 
