@@ -9,8 +9,8 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=ikajolroy&labelColor=%23697689&countColor=%23555555" />
  </p>
         
-- 🌱 I’m currently learning **NextJs, TypeScript, GraphQL, React Native, SQL,**
-- 💬 Ask me about **React, Node**
+- 🌱 I’m currently learning advanced software build
+- 💬 Ask me about MERN Stack
 - 📫 Reach me shrikajol@gmail.com
 
 
