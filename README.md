@@ -9,13 +9,11 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=ikajolroy&labelColor=%23697689&countColor=%23555555" />
  </p>
         
-
-
 - 🌱 I’m currently learning **NextJs, TypeScript, GraphQL, React Native, SQL,**
 
 - 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **shrikajol@gmail.com**
+- 📫 Reach me **shrikajol@gmail.com**
 
 
 
@@ -38,7 +36,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 <br />
 
-### 🛠 &nbsp;Next Lavel
+### 🛠 &nbsp;Learning Now
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
