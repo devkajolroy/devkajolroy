@@ -72,11 +72,11 @@
 
 
 <p align="left">&nbsp;
-    <img align="center" width="42%"
+    <img align="center" width="44%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ikajolroy&show_icons=true&locale=en&layout=compact"
         alt="ikajolroy" />
-  <img align="center"  width="50%"
+  <img align="center"  width="52%"
         src="https://github-readme-stats.vercel.app/api?username=ikajolroy&show_icons=true&locale=en" alt="ikajolroy" />
 </p>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ikajolroy)  
