@@ -1,3 +1,10 @@
+<p align="center">&nbsp;
+    <img align="center" width="100%%"
+        src="https://scontent-maa2-1.xx.fbcdn.net/v/t1.6435-9/188626962_1091057274751382_4914036680638152220_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFopf7GvC0LM7xt8edXDXdgVMQ7WXSHad1UxDtZdIdp3UebreRfQ8j14o0bk036qzaNhKuSjuhiMydeavNDh6Gl&_nc_ohc=wwujXytMBYwAX-aVw0o&_nc_ht=scontent-maa2-1.xx&oh=00_AT-pqw-jhrVZjb5AafrKCtMoK2t4fqVt6L-9TaB9psiWpg&oe=627A74E7"
+        alt="ikajolroy" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kajol Roy</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h3>
 
