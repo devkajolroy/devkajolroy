@@ -1,6 +1,6 @@
 <p align="center">&nbsp;
     <img align="center" width="100%%"
-        src="https://media-exp1.licdn.com/dms/image/C5616AQGbbRrZrM1blQ/profile-displaybackgroundimage-shrink_350_1400/0/1649753999528?e=1655337600&v=beta&t=_KKEq1sGgmz6hEty9mybelsK6_6DmLCoDs5oVy1Ryrk"
+        src="https://res.cloudinary.com/kajolroy/image/upload/v1657856913/Phoenix-Banner-Image_quzt8o.jpg"
         alt="ikajolroy" />
 </p>
 
@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Next Js](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -53,7 +54,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
-![Next Js](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 <br />
