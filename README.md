@@ -63,6 +63,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)
 ![Socket](https://img.shields.io/badge/-Socket-05122A?style=flat&logo=socket.io)
 
 <br />
