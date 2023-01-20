@@ -1,6 +1,6 @@
 <p align="center">&nbsp;
     <img align="center" width="100%%"
-        src="https://res.cloudinary.com/kajolroy/image/upload/v1657856913/Phoenix-Banner-Image_quzt8o.jpg"
+        src="https://res.cloudinary.com/kajolroy/image/upload/v1674235287/zzzzzz_jvyjct.png"
         alt="ikajolroy" />
 </p>
 
