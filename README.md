@@ -1,4 +1,4 @@
-<p align="center">&nbsp;
+<p align="center">
     <img align="center" width="100%%"
         src="https://res.cloudinary.com/kajolroy/image/upload/v1674235287/zzzzzz_jvyjct.png"
         alt="ikajolroy" />
