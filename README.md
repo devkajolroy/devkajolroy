@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h2>
+<h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h3>
 
 
 
