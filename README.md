@@ -6,15 +6,9 @@
 
 
 
-<h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h3>
+<h2 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h2>
 
-<p align="center"> 
-  <a href="https://twitter.com/ikajolroy" target="blank"><img
-            src="https://img.shields.io/twitter/follow/ikajolroy?logo=twitter&style=for-the-badge"
-            alt="ikajolroy" /></a> 
-  <a href="https://visitorbadge.io/status?path=ikajolroy">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ikajolroy&labelColor=%23697689&countColor=%23555555" />
- </p>
+
 
 - 🌱 I’m currently learning advanced software build
 - 💬 Ask me about MERN Stack
