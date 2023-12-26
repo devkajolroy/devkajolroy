@@ -6,13 +6,11 @@
 
 
 
-<h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h3>
+<h3 align="center">( Web and Mobile )</h3>
 
 
 
-- 🌱 I’m currently learning advanced software build
-- 💬 Ask me about MERN Stack
-- 📫 Reach me shrikajol@gmail.com
+I am a active problem-solver and Building type-safe applications. I am an fast learner and expand my knowledge and skills.
 
 
 
@@ -38,6 +36,7 @@
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudways)&nbsp;\
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Prisma](https://img.shields.io/badge/-prisma-05122A?style=flat&logo=prisma)
 ![React Query](https://img.shields.io/badge/-Reactquery-05122A?style=flat&logo=reactquery)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -57,38 +56,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)
 
 <br />
 
 
-<h3 align="left">Connect with me:</h3>
-<p >
-    <a href="https://twitter.com/dkajolroy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="ikajolroy" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/dkajolroy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="kajolroy" height="30" width="40" /></a>
-    <a href="https://fb.com/dkajolroy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="ikajolroy" height="30" width="40" /></a>
-    <a href="https://instagram.com/dkajolroy" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ikajolroy" height="30" width="40" /></a>
-</p>
 
-
-
-
-<p >&nbsp;
-    <img  width="44%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true"
-        alt="ikajolroy" />
-    <img  width="52%"
-        src="https://github-readme-stats.vercel.app/api?username=dkajolroy&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
 
