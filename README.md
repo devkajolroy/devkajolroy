@@ -45,19 +45,20 @@ I am a active problem-solver and Building type-safe applications. I am an fast l
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Socket](https://img.shields.io/badge/-Socket-05122A?style=flat&logo=socket.io)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br />
 
 ### 🛠 &nbsp;Learning Now
-![Socket](https://img.shields.io/badge/-Socket-05122A?style=flat&logo=socket.io)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)
 
 <br />
 
